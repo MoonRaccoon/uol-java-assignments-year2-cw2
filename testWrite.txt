@@ -1,0 +1,36 @@
+ID: 1
+Name: Adrian Mole
+Date Of Birth: 20/01/1980
+Gender: MALE
+Phone Number: 1237894560
+Email Address: mole@example.com
+Course Applied To: 100211
+Qualifications: ACTUAL
+Tuition Fee Status: HOME
+Offer Status: UNCONDITIONAL
+
+
+ID: 2
+Name: Some Guy
+Date Of Birth: 31/03/1980
+Gender: MALE
+Phone Number: 1234567890
+Email Address: guy@example.com
+Course Applied To: 100302
+Qualifications: ACTUAL
+Tuition Fee Status: OVERSEAS
+Offer Status: UNCONDITIONAL
+
+
+ID: 3
+Name: Guy Man
+Date Of Birth: 12/07/1980
+Gender: MALE
+Phone Number: 0123456789
+Email Address: guy@example.fr
+Course Applied To: 100190
+Qualifications: POTENTIAL
+Tuition Fee Status: HOME
+Offer Status: PENDING
+
+
